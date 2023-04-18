@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,9 +78,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/workspace/yagmur-muslu-student-code/java/module-2/week-4/REVIEW/exercise/pom.xml" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/yagmur-muslu-student-code/java/module-2/week-7/01_Server_Side_APIs_Part_1/tutorial/locations/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TemperatureConverterTests">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.yagmurmuslu.TemperatureConverter" />
       <module name="TemperatureConverter" />
@@ -84,9 +96,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemperatureConverterTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemperatureConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yagmurmuslu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yagmurmuslu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yagmurmuslu.test.TemperatureConverterTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverterTests.placeholder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemperatureConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yagmurmuslu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yagmurmuslu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yagmurmuslu.test.TemperatureConverterTests" />
+      <option name="METHOD_NAME" value="placeholder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverterTests.temperatureTranslate_Réaumur_to_rankine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemperatureConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yagmurmuslu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yagmurmuslu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yagmurmuslu.test.TemperatureConverterTests" />
+      <option name="METHOD_NAME" value="temperatureTranslate_Réaumur_to_rankine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverterTests.temperatureTranslate_k_to_Réaumur" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemperatureConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yagmurmuslu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yagmurmuslu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yagmurmuslu.test.TemperatureConverterTests" />
+      <option name="METHOD_NAME" value="temperatureTranslate_k_to_Réaumur" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TemperatureConverterTests" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TemperatureConverterTests.temperatureTranslate_Réaumur_to_rankine" />
+        <item itemvalue="JUnit.TemperatureConverterTests.temperatureTranslate_k_to_Réaumur" />
+        <item itemvalue="JUnit.TemperatureConverterTests.placeholder" />
       </list>
     </recent_temporary>
   </component>
